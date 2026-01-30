@@ -1,0 +1,9 @@
+{
+    "name": "laina/lab5_mvc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
